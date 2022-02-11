@@ -1,0 +1,207 @@
+
+body {
+  font-family: "Montserrat";
+}
+
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.container-fluid {
+  padding: 3% 15% 12%;
+
+}
+
+.container-fluid-2 {
+  padding: 3% 15%;
+}
+
+.btn {
+  margin: 10px;
+}
+
+.navbar-brand{
+font-family: 'Ubuntu', sans-serif;
+font-size: 3rem;
+font-weight: bold;
+
+}
+
+.navbar {
+  padding: 0 0 7rem;
+}
+
+.nav-item{
+  font-size: 1rem;
+  padding-right: 0 18px;
+  margin: 30px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+
+.p1{
+  font-family: 'Montserrat-Black', sans-serif;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  /* padding-top: 15%; */
+  padding-bottom: 5%;
+}
+
+.fa-check-circle:hover {
+color: #ff4c68;
+}
+
+.features-section {
+  font-size: 1.5rem;
+}
+
+.features1 {
+  color: #8f8f8f;
+}
+
+.features2 {
+  color: #8f8f8f;
+}
+
+.features3 {
+  color: #8f8f8f;
+}
+
+.iphone {
+  transform: rotate(20deg);
+  position: absolute;
+  margin: -50px auto -12rem 650px;
+}
+
+.iphone-box {
+  position: relative;
+}
+
+#features {
+  padding: 7% 15%;
+  background-color: white;
+  position: relative;
+  z-index: 1;
+
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+h2 {
+  font-family: "Ubuntu-Bold", sans-serif;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  font-weight: bolder;
+}
+
+h3 {
+  font-family: "Ubuntu-Bold", sans-serif;
+  font-weight: bolder;
+}
+
+.dog {
+  width: 20%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.testimonial-image {
+  width: 20%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.icon {
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+#testimonials {
+
+  text-align: center;
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+#press {
+  background-color: #ff4c68;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 40px 50px;
+}
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+.card {
+  text-align: center;
+  line-height: 1.5;
+  
+}
+
+.price-card {
+  padding: 3% 2%
+}
+
+#cta {
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 7%;
+}
+.call2action {
+
+  font-family: "Ubuntu-Bold", sans-serif;
+  font-size: 2rem;
+  line-height: 1.5;
+  font-weight: bolder;
+  color: white;
+
+}
+
+.btn2 {
+  margin: 30px 10px 0;
+}
+
+#footer {
+  background-color: white;
+  padding: 2%;
+  text-align: center;
+
+
+}
+
+
+
+
+@media (max-width: 1028px){
+
+  #title {
+    text-align: center;
+  }
+
+  .iphone{
+    position: static;
+    transform: rotate(0);
+    width: 60%;
+    margin: 30px 0 0 150px;
+  }
+}

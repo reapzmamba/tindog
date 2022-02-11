@@ -1,0 +1,13 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Dongle&family=Montserrat:wght@500;600&family=Permanent+Marker&family=Righteous&family=Russo+One&display=swap" rel="stylesheet">
+
+
+CSS:
+
+font-family: 'Caveat', cursive;
+font-family: 'Dongle', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Righteous', cursive;
+font-family: 'Russo One', sans-serif;
